@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Software Development & Architecture**
 
+- <img src="https://png.pngtree.com/png-vector/20220517/ourmid/pngtree-quality-done-icon-color-flat-png-image_4688151.png" width="30" align="center"> Get your web projects tasks/projects: <a href="https://www.upwork.com/freelancers/~012355dac35daf0440" target="blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Upwork" width="100" align="center">
+
 - 💬 Ask me about **Javascript & Web Development**
 
 - 📫 How to reach me **the.mahadwaseem@gmail.com**
@@ -10,8 +12,6 @@
 - 📄 Know about my experiences [here in featured section](https://www.linkedin.com/in/themahadwaseem/)
 
 - Love to **play Games, Cricket, Call of Duty, eat food and travel**
-
-- <h3 >Get your web projects done here: <a href="https://www.upwork.com/freelancers/~012355dac35daf0440" target="blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Upwork">< /h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
