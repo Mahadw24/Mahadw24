@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Software Development & Architecture**
 
-- <img src="https://png.pngtree.com/png-vector/20220517/ourmid/pngtree-quality-done-icon-color-flat-png-image_4688151.png" width="30" align="center"> Get your web projects tasks/projects: <a href="https://www.upwork.com/freelancers/~012355dac35daf0440" target="blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Upwork" width="100" align="center">
+- <img src="https://png.pngtree.com/png-vector/20220517/ourmid/pngtree-quality-done-icon-color-flat-png-image_4688151.png" width="30" align="center"> Get your web projects tasks/projects: <a href="https://www.upwork.com/freelancers/~012355dac35daf0440" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/upwork-logo-png-transparent.png" alt="Upwork" width="100" align="center">
 
 - 💬 Ask me about **Javascript & Web Development**
 
@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/themahadwaseem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themahadwaseem" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23159552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6529206" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/mahadw24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ali7112001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mahadw24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali7112001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/themahadwaseem/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="themahadwaseem" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23159552" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="6529206" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/mahadw24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ali7112001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mahadw24" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ali7112001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
